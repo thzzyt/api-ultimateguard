@@ -9,15 +9,15 @@
     },
     {
       "title": "Escalas de Animação da janela",
-      "value": "1.0x"
+      "value": "0.5x"
     },
     {
       "title": "Escala Animação de transição",
-      "value": "1.0x"
+      "value": "0.5x"
     },
     {
       "title": "Escala de duração do Animator",
-      "value": "1.0x"
+      "value": "0.5x"
     },
     {
       "value": "As 3 funções abaixo são as mesma"
